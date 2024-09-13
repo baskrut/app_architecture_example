@@ -1,0 +1,22 @@
+const mokProducts = [
+  {"name": "Apple", "category": "Fruits", "price": 1.50, "inStock": true, "rating": 4.5},
+  {"name": "Banana", "category": "Fruits", "price": 0.99, "inStock": true, "rating": 4.7},
+  {"name": "Orange", "category": "Fruits", "price": 1.25, "inStock": false, "rating": 4.2},
+  {"name": "Tomato", "category": "Vegetables", "price": 0.80, "inStock": true, "rating": 4.0},
+  {"name": "Potato", "category": "Vegetables", "price": 0.45, "inStock": true, "rating": 3.9},
+  {"name": "Chicken", "category": "Meat", "price": 5.99, "inStock": true, "rating": 4.8},
+  {"name": "Milk", "category": "Dairy", "price": 1.20, "inStock": true, "rating": 4.3},
+  {"name": "Cheddar", "category": "Dairy", "price": 3.50, "inStock": true, "rating": 4.6},
+  {"name": "Bread", "category": "Bakery", "price": 2.10, "inStock": false, "rating": 4.4},
+  {"name": "Butter", "category": "Dairy", "price": 1.75, "inStock": true, "rating": 4.7},
+  {"name": "Pasta", "category": "Pantry", "price": 1.30, "inStock": true, "rating": 4.1},
+  {"name": "Rice", "category": "Pantry", "price": 2.00, "inStock": false, "rating": 4.2},
+  {"name": "Salmon", "category": "Meat", "price": 7.99, "inStock": true, "rating": 4.9},
+  {"name": "Yogurt", "category": "Dairy", "price": 1.10, "inStock": true, "rating": 4.5},
+  {"name": "Carrot", "category": "Vegetables", "price": 0.60, "inStock": true, "rating": 3.8},
+  {"name": "Eggs", "category": "Dairy", "price": 2.50, "inStock": true, "rating": 4.6},
+  {"name": "Steak", "category": "Meat", "price": 10.99, "inStock": false, "rating": 4.8},
+  {"name": "Cucumber", "category": "Vegetables", "price": 0.70, "inStock": true, "rating": 4.0},
+  {"name": "Grapes", "category": "Fruits", "price": 2.75, "inStock": false, "rating": 4.3},
+  {"name": "Almonds", "category": "Nuts", "price": 4.50, "inStock": true, "rating": 4.7}
+];
